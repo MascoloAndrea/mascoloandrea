@@ -47,8 +47,8 @@ Here is a selection of my most relevant projects (you can find the full, compreh
 
 *   **💻 Software Engineering & Web Dev**
     *   **TIW Project & Mesos**: Developed in **Java**, applying Design Patterns, Object-Oriented Programming (OOP), and structured Unit Testing, integrated with **MySQL** databases, JavaScript, HTML, and CSS.
-    *   **FreshProducts & ITIS Molinari Library**: Web and management applications built with **Python** (including the **Django** framework and GUI development with TKinter) featuring data persistence on relational databases.
-      **Explore more on FreshProducts website:** [https://andreamascolo.pythonanywhere.com/](https://andreamascolo.pythonanywhere.com/)
+    *   **FreshProducts & ITIS Molinari Library**: Web and management applications built with **Python** (including the **Django** framework and GUI development with TKinter) featuring data persistence on relational databases.<br>
+      **Explore more on FreshProducts website:** [andreamascolo.pythonanywhere.com/](https://andreamascolo.pythonanywhere.com/)
 
 *   **⚡ Digital Architectures & Optimization**
     *   **Movhex (Optimal Routing)**: Implementation in **C/C++** focused on the efficiency of complex data structures and algorithms (such as Dijkstra's algorithm) for optimal pathfinding.
@@ -59,8 +59,8 @@ Here is a selection of my most relevant projects (you can find the full, compreh
     *   **Astana Smart City & IoT Systems**: Modeled and designed IoT infrastructures on Cisco Packet Tracer, integrating Python scripting, sensors, actuators, and core network services (DNS, DHCP, AAA, SMTP).
 
 *   **🎨 UI/UX Design**
-    *   **GreenBytes**: User experience design and high-fidelity mobile prototyping built using **Figma**.
-       **Explore more on GreenBytes website:**[mascoloandrea.github.io/GreenBytes/](mascoloandrea.github.io/GreenBytes/)
+    *   **GreenBytes**: User experience design and high-fidelity mobile prototyping built using **Figma**.<br>
+       **Explore more on GreenBytes website:** [mascoloandrea.github.io/GreenBytes/](https://mascoloandrea.github.io/GreenBytes/)
         
 ---
 
