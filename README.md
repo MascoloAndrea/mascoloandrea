@@ -70,5 +70,6 @@ Here is a selection of my most relevant projects (you can find the full, compreh
 ### 📫 Connect with me
 
 Feel free to reach out if you want to discuss a project, networking, or just to say hi:
-*   💼 **LinkedIn:** [Let's connect!](https://mascoloandrea.github.io) *(or use the direct link on my portfolio)*
+*   🌐 **Explore more on my website:** [mascoloandrea.github.io](https://mascoloandrea.github.io)
+*   💼 **LinkedIn:** [Let's connect!](https://www.linkedin.com/in/andrea-mascolo-4115aa23a)
 *   📧 **Email:** info.andreamascolo@gmail.com
