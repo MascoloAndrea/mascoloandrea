@@ -48,6 +48,7 @@ Here is a selection of my most relevant projects (you can find the full, compreh
 *   **💻 Software Engineering & Web Dev**
     *   **TIW Project & Mesos**: Developed in **Java**, applying Design Patterns, Object-Oriented Programming (OOP), and structured Unit Testing, integrated with **MySQL** databases, JavaScript, HTML, and CSS.
     *   **FreshProducts & ITIS Molinari Library**: Web and management applications built with **Python** (including the **Django** framework and GUI development with TKinter) featuring data persistence on relational databases.
+      **Explore more on FreshProducts website:** [https://andreamascolo.pythonanywhere.com/](https://andreamascolo.pythonanywhere.com/)
 
 *   **⚡ Digital Architectures & Optimization**
     *   **Movhex (Optimal Routing)**: Implementation in **C/C++** focused on the efficiency of complex data structures and algorithms (such as Dijkstra's algorithm) for optimal pathfinding.
