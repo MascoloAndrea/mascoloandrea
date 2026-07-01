@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-stats-extended.vercel.app/api?username=mascoloandrea" alt="My GitHub Stats" />
+      [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=mascoloandrea)](https://github.com/stats-organization/github-stats-extended)
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mascoloandrea&layout=compact&theme=tokyonight" alt="My Top Languages" />
