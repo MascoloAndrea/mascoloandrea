@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mascoloandrea&show_icons=true&count_private=true&theme=tokyonight" alt="My GitHub Stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=mascoloandrea" alt="My GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mascoloandrea&layout=compact&theme=tokyonight" alt="My Top Languages" />
